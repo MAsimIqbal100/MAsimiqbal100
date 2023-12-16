@@ -1,7 +1,7 @@
 [![MasterHead]()
 <h1 align="center">Hi 👋, I'm Muhammad Asim Iqbal</h1>
 <h3 align="center">A passionate Data Scientist | Analytics Enthusiast</h3>
-<img align="right" alt="Data_Analysis" width="400" src="data_working.gif">
+<img align="right" alt="Data_Analysis" width="400" src="https://imgflip.com/gif/89k6n9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masimiqbal100&label=Profile%20views&color=0e75b6&style=flat" alt="masimiqbal100" /> </p>
 
