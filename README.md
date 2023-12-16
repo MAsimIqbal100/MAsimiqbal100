@@ -1,4 +1,4 @@
-[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/10/fdsa.gif)]
+<center>![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/10/fdsa.gif)</center>
 <h1 align="center">Hi 👋, I'm Muhammad Asim Iqbal</h1>
 <h3 align="center">A passionate Data Scientist | Analytics Enthusiast</h3>
 <img align="right" alt="Data_Analysis" width="400" src="https://imgflip.com/gif/89k6n9">
